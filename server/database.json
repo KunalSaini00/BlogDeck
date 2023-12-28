@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 0,
+            "title": "Someone",
+            "subtitle": "This is content of the post.",
+            "user_name": "user1@user.com",
+            "comments" :[]
+        },
+        {
+            "id": 1,
+            "title": "Someone else",
+            "subtitle": "This is also the content of this post.",
+            "user_name": "user2@user.com",
+            "comments" :[]
+        }
+    ],
+    "users": []
+}
